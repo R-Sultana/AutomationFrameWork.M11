@@ -19,6 +19,7 @@ public class AssertionPractice {
 		Assert.assertNotEquals("a", "A");
 		System.out.println("step4");
 		System.out.println("step5");
+		System.out.println("step5");
 	}
 
 	@Test
